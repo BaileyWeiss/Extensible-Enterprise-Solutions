@@ -53,7 +53,3 @@
     - R attachment
     - Questions
 
-7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - 
-    - 
-
