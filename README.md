@@ -4,7 +4,7 @@
 
 ## Bailey Weiss
 
-### Links To Different Projects:*
+### Links To Different Projects:
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
     - Install Python
