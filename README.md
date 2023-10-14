@@ -1,12 +1,10 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# LIS4369 Extensible Enterprise Solutions
+# Extensible Enterprise Solutions
 
 ## Bailey Weiss
 
-### LIS4369 Requirements:
-
-*Course Work Links:*
+### Links To Different Projects:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
     - Install Python
